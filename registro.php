@@ -15,7 +15,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Registro</title>
-    <link rel="stylesheet" href="/CSS/registro.css">
+    <link rel="stylesheet" href="registro/CSS/registro.css">
     <link rel="shortcut icon" type="imagen/x-icon" href="imagenes-registro/logo principal.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
 </head>
